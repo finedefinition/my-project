@@ -1,0 +1,9 @@
+<html i18n-values="dir:textdirection" spellcheck="false" class="reborn">
+<head>
+  <style>body { background-color: #ffffff !important; }</style>
+  <meta charset="utf-8">
+  <title>Экспресс-панель</title>
+</head>
+<body style="--theme-text-color: white; --theme-shadow-color: transparent">
+</body>
+</html>
